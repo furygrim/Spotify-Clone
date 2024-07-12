@@ -3,7 +3,11 @@
 Live Demo: https://spotifycloners.freewebhostmost.com/
 
 ## 🔭 &nbsp; About this Project
-A functional Spotify clone entirely from scratch, employing HTML, CSS, and JavaScript skills . Replicated key features of the original platform, including music playback controls and playlist management. Ensured seamless responsiveness across devices. Demonstrated excellence in front-end web development through hands-on implementation and attention to detail.
+* A functional Spotify clone entirely from scratch, employing HTML, CSS, and JavaScript skills . 
+* Replicated key features of the original platform, including music playback controls and playlist management.
+* Ensured seamless responsiveness across devices.
+* Demonstrated excellence in front-end web development through hands-on implementation and attention to detail.
+* Designed Volume Control and Seek Control System with basic playback features ( play, pause, next ).
 <br>
 
 ## 🛠 &nbsp;Tech Stack
