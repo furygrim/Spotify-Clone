@@ -7,7 +7,7 @@ Live Demo: https://spotifycloners.freewebhostmost.com/
 * Replicated key features of the original platform, including music playback controls and playlist management.
 * Ensured seamless responsiveness across devices.
 * Demonstrated excellence in front-end web development through hands-on implementation and attention to detail.
-* Designed Volume Control and Seek Control System with basic playback features ( play, pause, next ).
+* Designed Volume Control and Seek Control System with basic playback features ( play, pause, previous, next ).
 <br>
 
 ## 🛠 &nbsp;Tech Stack
